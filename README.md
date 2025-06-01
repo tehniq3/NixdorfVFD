@@ -1,5 +1,5 @@
 # NixdorfVFD
-based on https://github.com/MrTransistorsChannel/NixdorfVFD
+based on https://github.com/MrTransistorsChannel/NixdorfVFD for Nixdorf BA63 VFD customer display (sometimes named PL-200)
 
 Important: Add J3 jumper to the display to disable parity check, remove all other jumpers from the settings panel
 

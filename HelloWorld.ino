@@ -1,4 +1,5 @@
 /*
+ * Nixdorf BA63 VFD customer display
  * Important: Add J3 jumper to the display to disable parity check, remove all other jumpers from the settings panel 
  * 
  * Nicu Florica (niq_ro) easy changed the original sketch
